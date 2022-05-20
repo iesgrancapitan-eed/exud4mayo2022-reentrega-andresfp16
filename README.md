@@ -57,6 +57,11 @@
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
 
+[Enlace GitHub](https://github.com/iesgrancapitan-eed/exud4mayo2022-reentrega-andresfp16)
+
+[Enlace docs](https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-andresfp16/ExamenEed/com/ARM/eed/examen/OptimizacionYDocumentacion/package-summary.html)
 ## BitBucket
 
 24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+
+[URL BitBucket](https://bitbucket.org/andresfp16/examenentornos/src/main/)
