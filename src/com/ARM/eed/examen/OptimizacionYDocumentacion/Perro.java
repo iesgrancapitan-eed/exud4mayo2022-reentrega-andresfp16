@@ -1,8 +1,8 @@
 package com.ARM.eed.examen.OptimizacionYDocumentacion;
 /**
  * <p>
- * En esta clase está Perro.java donde esta clase simula el comportamiento de un perro
- * @author Andrés Rodríguez Machado
+ * En esta clase esta Perro.java donde esta clase simula el comportamiento de un perro
+ * @author Andres Rodriguez Machado
  *
  */
 public class Perro extends Mascota {
@@ -17,7 +17,7 @@ public class Perro extends Mascota {
 	 * El constructor perro crea un objeto perro
 	 * @param name nombre del perro
 	 * @param age Edad del perro
-	 * @throws EdadErroneaException Es una excepción que salta en caso de tener una edad erronea
+	 * @throws EdadErroneaException Es una excepcion que salta en caso de tener una edad erronea
 	 */
 	public Perro(String name, int age) throws EdadErroneaException {
 		super();
@@ -29,7 +29,7 @@ public class Perro extends Mascota {
 	 * <p>
 	 * Cambia la edad del perro por la que se le asigne 
 	 * @param age Nueva edad del perro
-	 * @throws EdadErroneaException Es una excepción que salta en caso de tener una edad erronea
+	 * @throws EdadErroneaException Es una excepcion que salta en caso de tener una edad erronea
 	 */
 	public void setAge(int age) throws EdadErroneaException {
 		if (age < 0)
@@ -47,7 +47,7 @@ public class Perro extends Mascota {
 
 	/**
 	 * <p>
-	 * Este método simula un ladrido de un perro
+	 * Este metodo simula un ladrido de un perro
 	 * @return
 	 */
 	public String ladrar() {

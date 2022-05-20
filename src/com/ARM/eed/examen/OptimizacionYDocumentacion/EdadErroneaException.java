@@ -3,7 +3,7 @@ package com.ARM.eed.examen.OptimizacionYDocumentacion;
 /**
  * <p>
  * Excepcion que salta en caso de una fecha erronea
- * @author Andrés Rodríguez Machado
+ * @author Andres Rodriguez Machado
  *
  */
 public class EdadErroneaException extends Exception {
@@ -12,8 +12,8 @@ public class EdadErroneaException extends Exception {
 
 	/**
 	 * <p>
-	 * Excepción en caso de que la edad sea erronea
-	 * @param message mensaje que se devuelve en caso de dar la excepción
+	 * Excepcion en caso de que la edad sea erronea
+	 * @param message mensaje que se devuelve en caso de dar la excepcion
 	 */
 	public EdadErroneaException(String message) {
 		super(message);

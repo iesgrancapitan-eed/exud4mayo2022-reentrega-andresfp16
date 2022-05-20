@@ -2,7 +2,7 @@ package com.ARM.eed.examen.OptimizacionYDocumentacion;
 /**
  * <p>
  * Clase de la cual deriva perro y se encarga de todo lo que tiene que ver con el nombre del perro
- * @author Andrés Rodríguez Machado
+ * @author Andres Rodriguez Machado
  *
  */
 public class Mascota {
