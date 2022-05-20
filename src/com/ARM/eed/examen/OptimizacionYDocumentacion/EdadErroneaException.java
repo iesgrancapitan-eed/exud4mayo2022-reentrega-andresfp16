@@ -2,7 +2,9 @@ package com.ARM.eed.examen.OptimizacionYDocumentacion;
 
 public class EdadErroneaException extends Exception {
 
-	public EdadErroneaException(String string) {
-		super(string);
+	private static final long serialVersionUID = 1L;
+
+	public EdadErroneaException(String message) {
+		super(message);
 	}
 }
